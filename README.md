@@ -1,4 +1,10 @@
-PHPNews
-=======
+PHP News
+===
 
-PHP News from various source will be available in one place
+All known PHP news is in one place.
+
+
+
+Contributors
+===
+[Shaharia Azam] (http://www.shahariaazam.com)
